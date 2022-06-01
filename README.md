@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash-falcon1999
 - 👀 I’m interested in Machine Learning,Data Science and Web andd App Development
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning React,and delving into Deep Learning.
 - 💞️ I’m looking to collaborate on some cool projects with the MERN stack
 - 📫 How to reach me : carismaticoakash007@gmail.com
                         am.19u10029@btech.nitdgp.ac.in
